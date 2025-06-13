@@ -1,2 +1,2 @@
 # vortex
-Game engine
+Game engine written in Rust
