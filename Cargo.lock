@@ -3,5 +3,21 @@
 version = 4
 
 [[package]]
+name = "examples"
+version = "0.1.0"
+
+[[package]]
 name = "vortex"
+version = "0.1.0"
+
+[[package]]
+name = "vortex_log"
+version = "0.1.0"
+
+[[package]]
+name = "vortex_math"
+version = "0.1.0"
+
+[[package]]
+name = "vortex_render"
 version = "0.1.0"
